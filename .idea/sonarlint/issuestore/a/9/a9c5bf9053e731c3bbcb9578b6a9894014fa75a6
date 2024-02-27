@@ -1,0 +1,131 @@
+
+n	java:S116"YRename this field "AttendencePane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÊÇ™
+u	java:S116""[Rename this field "JoinRequestsPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¼£Ñùÿÿÿÿ
+p	java:S116%"[Rename this field "ManageClubButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªòÌ×
+x	java:S116("^Rename this field "SheduleEventsButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥°ğ•üÿÿÿÿ
+|	java:S1163"bRename this field "EventDeleteUpdateButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¿ùĞúÿÿÿÿ
+r	java:S116?"]Rename this field "EnterAdvisorButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è®Üş
+	java:S116A"gRename this field "EventSchedulingTypeChoiceBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÚŒéÿÿÿÿÿ
+v	java:S116C"aRename this field "EventSchedulingEventId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÛ­ö
+x	java:S116E"cRename this field "EventSchedulingEventName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¨¡Š
+~	java:S116G"dRename this field "EventSchedulingDatePicker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÜ¯àøÿÿÿÿ
+s	java:S116I"^Rename this field "EventSchedulingTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ıÇ™
+v	java:S116K"bRename this field "EventSchedulingLocation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ€Ä'
+€	java:S116M"fRename this field "EventSchedulingTypeOrAgenda" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤á©Ïûÿÿÿÿ
+z	java:S116O"eRename this field "EventSchedulingDescription" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯îó
+y	java:S116Q"_Rename this field "EventDeleteAdvisorId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÉŸíøÿÿÿÿ
+t	java:S116S"_Rename this field "EventSchedulingTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¼¦ñ
+r	java:S116U"XRename this field "EventIdColumn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¼Ôúÿÿÿÿ
+l	java:S116W"XRename this field "EventClubName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÁÃM
+n	java:S116Y"TRename this field "EventName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­æ´Óıÿÿÿÿ
+u	java:S116a"`Rename this field "EventScheduleLocation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â×—Â
+}	java:S116c"cRename this field "EventScheduleDescription" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í»›ªıÿÿÿÿ
+z	java:S116e"`Rename this field "EventDeleteSecondPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÚéÇûÿÿÿÿ
+{	java:S116g"aRename this field "EventUpdateDeleteTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÙÌÅúÿÿÿÿ
+m	java:S116i"XRename this field "EventDeleteId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÊÏÎ
+t	java:S116k"ZRename this field "EventDeleteName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó„–ıÿÿÿÿ
+w	java:S116m"bRename this field "EventDeleteActivityType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓÖ†
+t	java:S116o"ZRename this field "EventDeleteDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï‰¼—ùÿÿÿÿ
+t	java:S116q"ZRename this field "EventDeleteTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åóí´ùÿÿÿÿ
+s	java:S116s"^Rename this field "EventDeleteLocation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ç³Ï
+z	java:S116u"`Rename this field "EventDeleteTypeAgenda" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âè¦şÿÿÿÿ
+v	java:S116w"aRename this field "EventDeleteDescription" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×§Õ©
+o	java:S116y"ZRename this field "EventUpdateName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç­Íï
+n	java:S116{"ZRename this field "EventUpdateTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ö‚
+t	java:S116}"ZRename this field "EventUpdateDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¢«³ıÿÿÿÿ
+x	java:S116"^Rename this field "EventUpdateLocation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤í°üÿÿÿÿÿ
+w	java:S116"aRename this field "EventUpdateDescription" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â„Šˆ
+}	java:S116ƒ"bRename this field "EventUpdateTypeOrAgenda" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æùËşÿÿÿÿ
+~	java:S116…"cRename this field "EventUpdateDeleteEventId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎëÈÿÿÿÿÿ
+|	java:S116"fRename this field "attendance_AdvisorID_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á´æÿ
+u	java:S116"ZRename this field "Attendance2pane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş×™ûÿÿÿÿ
+}	java:S116‘"gRename this field "attendance_Attendance_column" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‘ÚË
+w	java:S116”"aRename this field "attendance_Club_choice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò°Ñ¼
+	java:S116–"dRename this field "attendance_EventID_choice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄğÂéıÿÿÿÿ
+	java:S116™"kRename this field "attendance_MarkAttendance_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÃ
+|	java:S116"fRename this field "attendance_StudentID_column" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óûç¼
+€	java:S116 "jRename this field "attendance_StudentID_search_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ™
+~	java:S116£"hRename this field "attendance_StudentName_column" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†—¬ 
+v	java:S116§"[Rename this field "attendance_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÍÍŞûÿÿÿÿ
+|	java:S116µ"fRename this field "ClubUpdateDeleteDescription" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û’Æ
+B
+java:S1172ú",Remove this unused method parameter "event".(õı‘O
+V
+java:S1117¥":Rename "clubs" which hides the field declared at line 246.(¸µÙûüÿÿÿÿ
+i
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(£Å¾ğ
+`
+java:S6201½"DReplace this instanceof check and cast with 'instanceof Event event'(“ªæÇúÿÿÿÿ
+d
+java:S6201¿"HReplace this instanceof check and cast with 'instanceof Meeting meeting'(–ü“´ÿÿÿÿÿ
+f
+java:S6201Á"JReplace this instanceof check and cast with 'instanceof Activity activity'(ÛæÎıÿÿÿÿ
+_
+java:S6201„"HReplace this instanceof check and cast with 'instanceof Meeting meeting'(Ç£®®
+`
+java:S6201†"DReplace this instanceof check and cast with 'instanceof Event event'(ÍØÍŠûÿÿÿÿ
+f
+java:S6201ˆ"JReplace this instanceof check and cast with 'instanceof Activity activity'(Ø„éşÿÿÿÿ
+`
+java:S6201›"DReplace this instanceof check and cast with 'instanceof Event event'(“ªæÇúÿÿÿÿ
+d
+java:S6201"HReplace this instanceof check and cast with 'instanceof Meeting meeting'(–ü“´ÿÿÿÿÿ
+f
+java:S6201Ÿ"JReplace this instanceof check and cast with 'instanceof Activity activity'(ÛæÎıÿÿÿÿ
+n
+java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ú¢˜Øıÿÿÿÿ
+M
+java:S1481Ô"1Remove this unused "meetingFound" local variable.(Œ¯¯Œıÿÿÿÿ
+I
+java:S1481å"2Remove this unused "activityFound" local variable.(›«Æ±
+Y	java:S125Ù"<This block of commented-out lines of code should be removed.(êÂ–ş8Ã‰Ç®Â1
+T
+java:S1854™	"=Remove this useless assignment to local variable "advisorId".(íö¥¡
+E
+java:S1481™	".Remove this unused "advisorId" local variable.(íö¥¡
+i	java:S100Ç	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…îÀôùÿÿÿÿ
+H
+java:S1172Ç	",Remove this unused method parameter "event".(…îÀôùÿÿÿÿ
+N	java:S106È	"9Replace this use of System.out or System.err by a logger.(´Å
+T
+java:S1117Ó	"=Rename "eventType" which hides the field declared at line 90.(‡Ÿ 
+T	java:S106×	"9Replace this use of System.out or System.err by a logger.(ú¦Š‡ûÿÿÿÿ
+T	java:S106Ü	"9Replace this use of System.out or System.err by a logger.(›–æØüÿÿÿÿ
+O	java:S106İ	"9Replace this use of System.out or System.err by a logger.(’·À÷
+T	java:S106Ş	"9Replace this use of System.out or System.err by a logger.(åÕ¹ÿÿÿÿÿ
+O	java:S106ê	"9Replace this use of System.out or System.err by a logger.(ñ¥·º
+i	java:S100²
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ã¥¬øÿÿÿÿ
+V
+java:S1117‹":Rename "clubs" which hides the field declared at line 246.(··Ë«øÿÿÿÿ
+N
+java:S1128"8Remove this unused import 'java.time.DateTimeException'.(úÛ”™
+t
+java:S1192"XDefine a constant instead of duplicating this literal "-fx-border-color: red;" 22 times.(…ï¾àşÿÿÿÿ
+e
+java:S1192½"IDefine a constant instead of duplicating this literal "Activity" 4 times.(±¿¬üÿÿÿÿ
+’
+java:S1192ø"vDefine a constant instead of duplicating this literal "The specified Event ID was not found for the advisor." 3 times.(ÿ¤„êüÿÿÿÿ
+q
+java:S1192Á"UDefine a constant instead of duplicating this literal "Advisor ID Not Found" 3 times.(¤»Ëùÿÿÿÿ
+l
+java:S1192ø"PDefine a constant instead of duplicating this literal "Event Not Found" 3 times.(ÿ¤„êüÿÿÿÿ
+i
+java:S1192à	"MDefine a constant instead of duplicating this literal "Student Name" 3 times.(˜¿Äâıÿÿÿÿ
+d
+java:S1192½"HDefine a constant instead of duplicating this literal "Meeting" 4 times.(±¿¬üÿÿÿÿ
+e
+java:S1192«"NDefine a constant instead of duplicating this literal "Invalid Input" 5 times.(Ò˜ú¿
+‚
+java:S1192â"kDefine a constant instead of duplicating this literal "Please enter a valid integer for Event ID." 4 times.(²¯¯€
+j
+java:S1192¹"SDefine a constant instead of duplicating this literal "Duplicate Event ID" 4 times.(±ÄÒ
+b
+java:S1192€"FDefine a constant instead of duplicating this literal "Error" 3 times.(èÜÜûÿÿÿÿ
+b
+java:S1192½"FDefine a constant instead of duplicating this literal "Event" 4 times.(±¿¬üÿÿÿÿ
+f	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßì‚
+g	java:S117Š
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ˆ‚»
+g	java:S117æ
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ˆ‚»

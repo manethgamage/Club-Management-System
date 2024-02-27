@@ -1,0 +1,102 @@
+.side-pane {
+    -fx-background-color: rgba(78,154,248, 0.1);
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-font-family: 'San Francisco';
+}
+
+.advisor-main-pane {
+    -fx-background-color: rgba(255, 255, 255, 0.7);
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-font-family: 'San Francisco';
+}
+
+.transparent-text-field {
+    -fx-background-color: rgba(255, 255, 255, 0.7);
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-border-color: #000000;
+    -fx-border-width: 0.2;
+}
+
+.side-button {
+    -fx-background-color: rgba(255, 255, 255, 0.1);
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-border-color: #000000;
+    -fx-border-width: 0.05;
+    -fx-font-family: 'San Francisco';
+}
+
+.side-button:hover {
+    -fx-background-color: rgba(78, 154, 248, 0.2);
+}
+
+.side-button:pressed {
+    -fx-background-color: rgba(78, 154, 248, 0.3);
+    -fx-background-insets: 0, 1, 2;
+}
+
+.add-button {
+    -fx-background-color: rgba(134, 255, 191, 0.7);
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-border-color: #000000;
+    -fx-border-width: 0.2;
+}
+
+.add-button:hover {
+    -fx-background-color: rgba(98, 249, 169, 0.1);
+}
+
+.search-button {
+    -fx-background-color: rgba(255, 255, 255, 0.7);
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-border-color: #000000;
+    -fx-border-width: 0.2;
+}
+
+.search-button:hover {
+    -fx-background-color: rgba(78,154,248, 0.1);
+}
+
+.update-button {
+    -fx-background-color: rgba(246, 252, 151, 0.7);
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-border-color: #000000;
+    -fx-border-width: 0.2;
+}
+
+.update-button:hover {
+    -fx-background-color: rgba(240, 249, 77, 0.1);
+}
+
+.delete-button {
+    -fx-background-color: rgba(255, 111, 111, 0.7);
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-border-color: #000000;
+    -fx-border-width: 0.2;
+}
+
+.delete-button:hover {
+    -fx-background-color: rgba(253, 62, 62, 0.1);
+}
+
+
+.clubtable {
+    -fx-background-color: #f0f0f0;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: #e0e0e0;
+}
+
+
+.table-row-cell:even {
+    -fx-background-color: #f0f0f0;
+}
+

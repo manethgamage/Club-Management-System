@@ -1,0 +1,45 @@
+
+x	java:S116>"WRename this field "student_club" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¦Èâøÿÿÿÿ8şØ®ĞÁ1
+y	java:S116A"XRename this field "student_event" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¥Àİûÿÿÿÿ8şØ®ĞÁ1
+s	java:S116D"WRename this field "student_home" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æƒ÷8şØ®ĞÁ1
+…	java:S116O"dRename this field "student_joined_club_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¨øŒøÿÿÿÿ8şØ®ĞÁ1
+†	java:S116R"jRename this field "student_send_club_request_table" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç×İé8şØ®ĞÁ1
+I
+java:S1172z",Remove this unused method parameter "event".(Ï€Ş8„Ù®ĞÁ1
+O
+java:S1172…",Remove this unused method parameter "event".(òÓéçøÿÿÿÿ8…Ù®ĞÁ1
+O
+java:S1172´",Remove this unused method parameter "event".(Ã§‘Œüÿÿÿÿ8Ù®ĞÁ1
+^
+java:S1117¶"ARename "selectedClub" which hides the field declared at line 223.(—ÔÉm8Ù®ĞÁ1
+g
+java:S6201¦"DReplace this instanceof check and cast with 'instanceof Event event'(“ªæÇúÿÿÿÿ8•Ù®ĞÁ1
+k
+java:S6201¨"HReplace this instanceof check and cast with 'instanceof Meeting meeting'(–ü“´ÿÿÿÿÿ8•Ù®ĞÁ1
+m
+java:S6201ª"JReplace this instanceof check and cast with 'instanceof Activity activity'(ÛæÎıÿÿÿÿ8–Ù®ĞÁ1
+W
+java:S1128";Remove this unused import 'javafx.application.Application'.(í™şj8–Ù®ĞÁ1
+p
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(‹€é38–Ù®ĞÁ1
+\
+java:S1128"?Remove this unused import 'javafx.beans.value.ObservableValue'.(´œ«Å8–Ù®ĞÁ1
+Z
+java:S1128	"=Remove this unused import 'javafx.collections.FXCollections'.(´¶²Æ8–Ù®ĞÁ1
+`
+java:S1128
+">Remove this unused import 'javafx.collections.ObservableList'.(ÄÜ€éüÿÿÿÿ8–Ù®ĞÁ1
+S
+java:S1128"1Remove this unused import 'javafx.util.Callback'.(¢œ»²ıÿÿÿÿ8–Ù®ĞÁ1
+@
+java:S1128"Remove this duplicated import.(Õë±Äøÿÿÿÿ8—Ù®ĞÁ1
+O
+java:S1144¡"1Remove this unused private "refreshTable" method.(èÀ Ù8—Ù®ĞÁ1
+l
+java:S1192å"IDefine a constant instead of duplicating this literal "clubName" 5 times.(Ë·ñòüÿÿÿÿ8—Ù®ĞÁ1
+m
+java:S1192ò"PDefine a constant instead of duplicating this literal "clubDescription" 3 times.(ÊÙM8—Ù®ĞÁ1
+z
+java:S1104'"]Make signedInStudentId a static final constant or non-public and provide accessors if needed.(·°øã8¶Ù®ĞÁ1
+T
+java:S1444'"7Make this "public static signedInStudentId" field final(·°øã8¶Ù®ĞÁ1

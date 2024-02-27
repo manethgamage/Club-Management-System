@@ -1,0 +1,17 @@
+
+œ
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÆÜ¥äıÿÿÿÿ
+—
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤Âì
+E
+java:S1656*"/Remove or correct this useless self-assignment.(À½íÎ
+E
+java:S1656,"/Remove or correct this useless self-assignment.(á“Ç÷
+J
+java:S1656+"/Remove or correct this useless self-assignment.(—®…ïıÿÿÿÿ
+z
+java:S4165*"dRemove this useless assignment; "clubId" already holds the assigned value along all execution paths.(À½íÎ
+ƒ
+java:S4165,"mRemove this useless assignment; "clubDescription" already holds the assigned value along all execution paths.(á“Ç÷
+
+java:S4165+"fRemove this useless assignment; "clubName" already holds the assigned value along all execution paths.(—®…ïıÿÿÿÿ

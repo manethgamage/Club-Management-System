@@ -1,0 +1,58 @@
+
+	java:S116"^Rename this field "advisor_signin_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûø©Çùÿÿÿÿ8İã®ĞÁ1
+z	java:S116"^Rename this field "advisor_signup_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬³œÈ8İã®ĞÁ1
+~	java:S116"]Rename this field "selection_MainMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßéãîşÿÿÿÿ8İã®ĞÁ1
+	java:S116O"^Rename this field "student_signin_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…øÇúÿÿÿÿ8İã®ĞÁ1
+	java:S116R"^Rename this field "student_signup_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ú¡ûøÿÿÿÿ8Şã®ĞÁ1
+ˆ
+java:S4144¨"jUpdate this method so that its implementation is not identical to "mainStudentButtonOnAction" on line 135.(Ïê†Ù8Şã®ĞÁ1
+
+java:S4144¸"jUpdate this method so that its implementation is not identical to "mainStudentButtonOnAction" on line 135.(Û›ë¶úÿÿÿÿ8Şã®ĞÁ1
+‡
+java:S4144°"jUpdate this method so that its implementation is not identical to "mainAdvisorButtonOnAction" on line 144.(ŒÓ—F8Şã®ĞÁ1
+ˆ
+java:S4144È"jUpdate this method so that its implementation is not identical to "mainAdvisorButtonOnAction" on line 144.(“ÙÊå8ßã®ĞÁ1
+
+java:S4144 "pUpdate this method so that its implementation is not identical to "studentSigninBackButtonOnAction" on line 152.(¹×°8ßã®ĞÁ1
+J
+java:S1172‡",Remove this unused method parameter "event".(¸¬Äı8áã®ĞÁ1
+O
+java:S1172",Remove this unused method parameter "event".(¾ùíÄûÿÿÿÿ8âã®ĞÁ1
+J
+java:S1172˜",Remove this unused method parameter "event".(ˆÎ³ñ8ãã®ĞÁ1
+J
+java:S1172 ",Remove this unused method parameter "event".(¹×°8ãã®ĞÁ1
+J
+java:S1172¨",Remove this unused method parameter "event".(Ïê†Ù8äã®ĞÁ1
+I
+java:S1172°",Remove this unused method parameter "event".(ŒÓ—F8äã®ĞÁ1
+O
+java:S1172¸",Remove this unused method parameter "event".(Û›ë¶úÿÿÿÿ8äã®ĞÁ1
+J
+java:S1172À",Remove this unused method parameter "event".(‰õ¶˜8åã®ĞÁ1
+J
+java:S1172È",Remove this unused method parameter "event".(“ÙÊå8åã®ĞÁ1
+O
+java:S1172Ğ",Remove this unused method parameter "event".(¯Ï×‘ùÿÿÿÿ8æã®ĞÁ1
+T
+java:S2696˜"6Make the enclosing method "static" or remove this set.(Ó²’à8óã®ĞÁ1
+S
+java:S2209˜"5Change this instance-reference to a static reference.(Ó²’à8ôã®ĞÁ1
+J
+java:S1172Ñ",Remove this unused method parameter "event".(Ô¼£8÷ã®ĞÁ1
+Y
+java:S2696Ó"6Make the enclosing method "static" or remove this set.(ÅÌÆÉùÿÿÿÿ8÷ã®ĞÁ1
+S
+java:S2209ß"5Change this instance-reference to a static reference.(§’¡¿8øã®ĞÁ1
+Y	java:S125ø"<This block of commented-out lines of code should be removed.(£§ì8ùã®ĞÁ1
+^	java:S125ş"<This block of commented-out lines of code should be removed.(şë¹Õşÿÿÿÿ8ùã®ĞÁ1
+O
+java:S1172",Remove this unused method parameter "event".(Ñ¬İîÿÿÿÿÿ8ùã®ĞÁ1
+Y
+java:S2696"6Make the enclosing method "static" or remove this set.(î²éòøÿÿÿÿ8ùã®ĞÁ1
+p
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(‹€é38úã®ĞÁ1
+B
+java:S1128"%Remove this unused import 'java.sql'.(´İ…Å8ûã®ĞÁ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ûã®ĞÁ1

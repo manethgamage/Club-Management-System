@@ -1,0 +1,138 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£ßâœûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ü¥´ÿ
+M	java:S106Y"9Replace this use of System.out or System.err by a logger.(—Ö~
+S	java:S106["9Replace this use of System.out or System.err by a logger.(åµöúÿÿÿÿ
+T
+java:S1117t">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ˆ°’Ä
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(¼š½Ì
+U
+java:S1117Ÿ">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(Ò½–Œøÿÿÿÿ
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.(üœı‘
+U
+java:S1117É">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+O	java:S106İ"9Replace this use of System.out or System.err by a logger.(„•ÓŒ
+O	java:S106ß"9Replace this use of System.out or System.err by a logger.(ˆæ¼¥
+U
+java:S1117ó">Rename "connection" which hides the field declared at line 15.(éÀçÈ
+U
+java:S1117">Rename "connection" which hides the field declared at line 15.(éÀçÈ
+U
+java:S1117Ç">Rename "connection" which hides the field declared at line 15.(éÀçÈ
+U
+java:S1117ƒ">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+U
+java:S1117°">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+U
+java:S1117İ">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+U
+java:S1117‰">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+U
+java:S1117¢">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+U
+java:S1117»">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+U
+java:S1117Ô">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+U
+java:S1117ò">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+U
+java:S1117">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+U
+java:S1117Î">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+O	java:S106Ü"9Replace this use of System.out or System.err by a logger.(„ì»¢
+U
+java:S1117ğ">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+U
+java:S1117">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+T	java:S106Ó"9Replace this use of System.out or System.err by a logger.(×–Ş¼ûÿÿÿÿ
+O	java:S106Õ"9Replace this use of System.out or System.err by a logger.(›€¤¦
+T	java:S106Ù"9Replace this use of System.out or System.err by a logger.(åµöúÿÿÿÿ
+U
+java:S1117â">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+U
+java:S1117“">Rename "connection" which hides the field declared at line 15.(ïÆ¥
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(Ì¡ŸÛûÿÿÿÿ
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(¥ë×Ì
+U
+java:S1117Ã">Rename "connection" which hides the field declared at line 15.(–èàí
+T
+java:S1117á">Rename "connection" which hides the field declared at line 15.(„Õ
+T	java:S106ú"9Replace this use of System.out or System.err by a logger.(’‡ìÈşÿÿÿÿ
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(‡Ÿ¶üÿÿÿÿ
+O	java:S106ƒ	"9Replace this use of System.out or System.err by a logger.(”»˜ú
+_
+java:S1192>"IDefine a constant instead of duplicating this literal "clubName" 6 times.(Â®
+k
+java:S1192?"PDefine a constant instead of duplicating this literal "clubDescription" 4 times.(’Íåüÿÿÿÿ
+h
+java:S1192‚"QDefine a constant instead of duplicating this literal "eventDescription" 4 times.(¬ŞÂú
+f
+java:S1192ş"JDefine a constant instead of duplicating this literal "eventName" 4 times.(ı€…üşÿÿÿÿ
+`
+java:S1192ı"IDefine a constant instead of duplicating this literal "eventId" 10 times.(©ÎÆ›
+i
+java:S1192Ò"MDefine a constant instead of duplicating this literal "activityName" 3 times.(¿ÅÊàøÿÿÿÿ
+a
+java:S1192…"JDefine a constant instead of duplicating this literal "eventType" 4 times.(ÂÌ´—
+h
+java:S1192Õ"QDefine a constant instead of duplicating this literal "activityLocation" 3 times.(ı€¨ß
+h
+java:S1192¨"LDefine a constant instead of duplicating this literal "meetingName" 3 times.(›¾¨‘øÿÿÿÿ
+j
+java:S1192¬"SDefine a constant instead of duplicating this literal "meetingDescription" 3 times.(‹ÁïÓ
+p
+java:S1192Ö"TDefine a constant instead of duplicating this literal "activityDescription" 3 times.(åØ“›şÿÿÿÿ
+e
+java:S1192¯"NDefine a constant instead of duplicating this literal "meetingAgenda" 3 times.(­’—›
+l
+java:S1192«"PDefine a constant instead of duplicating this literal "meetingLocation" 3 times.(ÿ¦¬İÿÿÿÿÿ
+a
+java:S1192ÿ"JDefine a constant instead of duplicating this literal "eventDate" 4 times.(àİË‚
+d
+java:S1192Ó"MDefine a constant instead of duplicating this literal "activityDate" 3 times.(¾öàÈ
+h
+java:S1192©"LDefine a constant instead of duplicating this literal "meetingDate" 3 times.(Û˜âÑşÿÿÿÿ
+f
+java:S1192€"JDefine a constant instead of duplicating this literal "eventTime" 4 times.(®ë«üÿÿÿÿ
+j
+java:S1192"NDefine a constant instead of duplicating this literal "eventLocation" 4 times.(’ØíÂşÿÿÿÿ
+d
+java:S1192Ô"MDefine a constant instead of duplicating this literal "activityTime" 3 times.(¥¡‹ï
+e
+java:S1192X"HDefine a constant instead of duplicating this literal "clubId" 12 times.(€®Ş€8áÖÕÁ1
+h
+java:S1192ª"LDefine a constant instead of duplicating this literal "meetingTime" 3 times.(æö¢Òøÿÿÿÿ
+b
+java:S1192„"KDefine a constant instead of duplicating this literal "teacherId" 10 times.(×‡÷ø
+d
+java:S1192Ù"MDefine a constant instead of duplicating this literal "activityType" 3 times.(ôà¡Ü
+Q
+java:S1141è"5Extract this nested try block into a separate method.(µ¦äÚùÿÿÿÿ
+e
+java:S2095–"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/
+e
+java:S2095ø"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/
+d
+java:S2095R"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/
+e
+java:S2095ã"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/
+e
+java:S2095ü"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/
+e
+java:S2095¶"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/
+e
+java:S2095‰"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/
+e
+java:S2095Ì"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/
+e
+java:S2095¼"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/
+f
+java:S2095®"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô­˜’
+e
+java:S2095ï"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/
+e
+java:S2095é"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/
+e
+java:S2095¢"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/
